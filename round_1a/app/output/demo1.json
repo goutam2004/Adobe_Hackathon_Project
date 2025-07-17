@@ -1,0 +1,35 @@
+{
+  "title": "History of AI",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Understanding Artificial Intelligence",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "What is AI?",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "History of AI",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Applications of AI",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Healthcare",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Finance",
+      "page": 1
+    }
+  ]
+}
