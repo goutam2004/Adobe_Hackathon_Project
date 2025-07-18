@@ -1,0 +1,14 @@
+[
+  {
+    "persona": "foodie",
+    "job_to_be_done": "plan a culinary tour in the South of France"
+  },
+  {
+    "persona": "photographer",
+    "job_to_be_done": "find scenic and iconic places to photograph in the South of France"
+  },
+  {
+    "persona": "historian",
+    "job_to_be_done": "study the historical evolution of cities and culture in the South of France"
+  }
+]
